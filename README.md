@@ -7,10 +7,15 @@ It ingests IP addresses and URLs from endpoint/network event logs, enriches them
 This tool dramatically reduces repetitive analyst work by automating:
 
 ✔ VirusTotal IP/URL enrichment
+
 ✔ AlienVault OTX indicator lookups
+
 ✔ Scamalytics fraud risk scoring
+
 ✔ Azure Table Storage intelligence caching
+
 ✔ API deduplication (skip re-enriching observables for 7 days)
+
 ✔ Styled DataFrame review & CSV export
 
 ## Architecture
