@@ -4,6 +4,8 @@ Author: Kehinde Oduyeye
 Device Timeline Automation is a threat-enrichment automation script designed for Security Operations Centers (SOC).
 It ingests IP addresses and URLs from endpoint/network event logs, enriches them through multiple threat-intel sources, and produces a structured, high-fidelity output for triage, hunting, and incident investigation.
 
+Blog post that goes into more details, can be found here: https://www.kehinde-oduyeye.dev/#/blog/1
+
 This tool dramatically reduces repetitive analyst work by automating:
 
 ✔ VirusTotal IP/URL enrichment
